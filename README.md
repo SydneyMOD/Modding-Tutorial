@@ -15,3 +15,11 @@ You should read these documents.
 - **PAYDAY 2 Modding Information**: <https://bitbucket.org/zabb65/payday-2-modding-information>
 
 - **modworkshop-wiki**: <https://modworkshop.net/wiki.php?action=categories&cid=2>
+
+## Bundle Tools
+
+- **Bundle Modder**: <https://modworkshop.net/mydownloads.php?action=view_down&did=197>
+
+- **DieselToolBox**: <https://github.com/simon-wh/DieselToolbox>
+
+- **hashlist**: <https://bitbucket.org/Frankelstner/pd2-hashlist>
