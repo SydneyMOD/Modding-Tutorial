@@ -1,0 +1,27 @@
+/*
+mod.txt is required to add mod to payday2. If you do not add this, put error on blt-log and the mod will not work.
+
+This file's style is JSON format.
+
+Files explain:
+"name" -> Set name
+"description" -> Set description
+"author" -> Set author
+"contact" -> Set contact
+"version" -> Set version
+"priority" -> Set priority, the less the number is, the earlier the mod launches
+"blt_version" ->  Set blt-version you use, recommend setting it "2"
+"color" -> Set background color of Mod List
+
+*/
+
+{
+    "name": "Example Mod",
+    "description": "An example Mod",
+    "author": "SydneyMOD Team",
+    "contact": "http://steamcommunity.com/groups/SydneyMOD",
+    "version": "1.0",
+    "priority": 1,
+    "blt_version": 2,
+    "color": "0 0 255"
+}
